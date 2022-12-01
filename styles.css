@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(10, 10, 40);
+    color: white;
+}
+h1{
+    padding-left: 18rem;
+}
+h4{
+    padding-left: 15rem;
+}
+ul{
+    padding-left: 20rem;
+}
+.user{
+    padding-left: 20rem;
+}
+#enter:hover{
+    background-color: brown;
+}
